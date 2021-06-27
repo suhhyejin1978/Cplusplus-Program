@@ -8,6 +8,7 @@
   
 #Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
   I feel like I repeated the read code often in my program.  I think I could make it more efficient by making it a separate function to reduce repetition.
+  
 #Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
   What I found most challenging to write was making the dictionary into a list.  It has been a while since I have worked with dictionaries so I had to brush up on it by looking it up on the internet and also on YouTube tutorials.  I was able to print it in dictionary form but wanted it in list form.  So I researched some more in order to get the dictionary to print as a list.  
   
